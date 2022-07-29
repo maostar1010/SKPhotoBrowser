@@ -1,5 +1,10 @@
 # Change Log
 
+## 7.1.0
+#### Updated
+- #433 fix example code as showing wrong gif. 
+- #428 Support network gif loading by p36348
+
 ## 7.0.0
 ### Big Changed
 - Support xcode12.x. swift5.2
